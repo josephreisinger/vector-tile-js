@@ -14,7 +14,7 @@
     "istanbul": "~0.3.6",
     "mapnik": "^3.5.13",
     "jshint": "^2.6.3",
-    "pbf": "^2.0.1",
+    "pbf": "git+https://github.com/josephreisinger/pbf",
     "tape": "~3.5.0",
     "eslint": "~1.00.0",
     "eslint-config-unstyled": "^1.1.0"
